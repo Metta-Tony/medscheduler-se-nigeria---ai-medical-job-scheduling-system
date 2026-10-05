@@ -1,0 +1,7 @@
+{
+  "name": "MedScheduler SE-Nigeria",
+  "description": "Computerized clinical workforce and shift scheduling for healthcare institutions across Southeast Nigeria.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MEDICAL_STAFF_SCHEDULING", "EMERGENCY_ROSTER_MANAGEMENT"]
+}
+
